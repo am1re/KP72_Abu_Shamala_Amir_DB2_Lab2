@@ -1,3 +1,8 @@
+# Лабораторна робота 2: Практика використання сервера Redis
+
+Абу Шамала Амір Махер, КП-72
+
+## Приклади роботи програми
 ![screenshot](screenshots/1.png)
 ![screenshot](screenshots/2.png)
 ![screenshot](screenshots/3.png)
